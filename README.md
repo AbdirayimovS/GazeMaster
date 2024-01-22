@@ -3,32 +3,29 @@
 
 Real-time gaze estimation based on web-camera
 
-
-
-
-## Authors
-
-- [@AbdirayimovS](https://www.github.com/Abdirayimovs)
-
-
 ## Installation
 
-Install my-project with npm
+Run the project with Conda and Python3.8 or Python3.10
 
 ```bash
-  conda create new python
+  conda create --name your_env_name python=3.8
 ```
-    
+
+Activate the environment
 ```bash
-    conda activate 
+  conda activate your_env_name
 ```
 
+Install requirements
+> Note: Ensure that you install python3.8 or python3.10
+```bash
+  pip install -r requirements.txt
+```
 
-## Reference
-
-Here are some related projects
-
-- [amitt1236/Gaze_estimation](https://github.com/amitt1236/Gaze_estimation)
+Run main file 
+```bash
+python main.py
+```
 
 
 ## Demo
@@ -48,3 +45,9 @@ Answer 1
 
 Answer 2
 
+
+## Reference
+
+Here are some related projects
+
+- [amitt1236/Gaze_estimation](https://github.com/amitt1236/Gaze_estimation)
