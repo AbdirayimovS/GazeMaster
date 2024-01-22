@@ -1,3 +1,6 @@
+<div style="background-color: #004d00; color: white; padding: 15px; border-radius: 8px;">
+    <p style="margin: 0; font-style: italic;">BISMILLAHIR-RAHMANIR-RAHIM</p>
+</div>
 
 # Gaze Estimation
 
