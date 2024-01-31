@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 <div style="background-color: #004d00; color: white; padding: 15px; border-radius: 8px;">
-    <p style="margin: 0; font-style: italic;">BISMILLAHIR-RAHMANIR-RAHIM</p>
+    <p style="margin: 0; font-style: italic;">BISMILLAHIR-ROHMANIR-ROHIM</p>
 </div>
 
 # Gaze Estimation
@@ -33,8 +33,7 @@ python main.py
 
 
 ## Demo
-
-Insert gif or link to demo
+[DEMO](demoGazeMasterV2.gif)
 
 Demo Video
 
@@ -55,6 +54,4 @@ Answer 2
 Here are some related projects
 
 - [amitt1236/Gaze_estimation](https://github.com/amitt1236/Gaze_estimation)
-=======
-# GazeMaster
->>>>>>> 82d277b (Initial commit)
+
