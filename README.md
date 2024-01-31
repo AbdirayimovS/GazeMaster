@@ -33,7 +33,7 @@ python main.py
 
 
 ## Demo
-[DEMO](demoGazeMasterV2.gif)
+![DEMO](demoGazeMasterV2.gif)
 
 Demo Video
 
